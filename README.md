@@ -1,5 +1,4 @@
-# self-pruning-network
-Self-pruning neural network using PyTorch (CIFAR-10)
+
 # Self-Pruning Neural Network (CIFAR-10)
 
 ## Overview
