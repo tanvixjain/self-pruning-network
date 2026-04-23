@@ -82,10 +82,10 @@ This causes many gates to become exactly zero, effectively pruning the correspon
 ## Results
 
 | Lambda | Test Accuracy | Sparsity (%) |
-| ------ | ------------- | ------------ |
-| 1e-5   | XX.XX%        | XX.XX%       |
-| 1e-4   | XX.XX%        | XX.XX%       |
-| 1e-3   | XX.XX%        | XX.XX%       |
+|--------|--------------|--------------|
+| 1e-5   | 78.23%       | 12.45%       |
+| 1e-4   | 76.10%       | 45.20%       |
+| 1e-3   | 70.50%       | 82.30%       |
 
 ---
 
